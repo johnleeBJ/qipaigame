@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>qlmajiang.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>62A0F0E63E332F3445EB14979FE28F6928AFD233</string>
+				<key>dateExpires</key>
+				<string>2019/1/23</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GJXA84HA6P.com.ql.majiang</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GJXA84HA6P</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>GJXA84HA6P.com.ql.majiang</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>app-mobile.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8dfc41ec-842b-46b6-a875-948bbd4bfab0</string>
+				<key>name</key>
+				<string>majiangAdhocProfile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GJXA84HA6P</string>
+				<key>name</key>
+				<string>Zongan Li</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
